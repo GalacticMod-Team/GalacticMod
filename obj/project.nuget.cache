@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NErwAL3F3Me6KqJ/6Bluhjo9IT8S9FvFEzZQXjAmM1rprcxXtuK5w1uQ6Z7DhM4T4W3Qy1XNZz8GwYj8E10yYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\noahb\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\Galactic\\Galactic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\noahb\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

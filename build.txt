@@ -1,0 +1,3 @@
+displayName = Galactic
+author = NoahB
+version = 0.1
