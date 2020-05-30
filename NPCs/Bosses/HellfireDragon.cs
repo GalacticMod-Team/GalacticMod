@@ -5,7 +5,7 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using System.Diagnostics;
 using System;
-//! note make robobee
+
 namespace Galactic.NPCs.Bosses {
     [AutoloadBossHead]
     public class HellfireDragon : ModNPC {
